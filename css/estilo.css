@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&display=swap');
+
+body{
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+div.alinha{
+	font-size: 85%;
+	
+}
+
+div.fundo{
+	font-size: 85%;
+	background-color: #F6E2FF;
+	border-radius: 15px;
+}
+
+div.cor{
+	font-size: 85%;
+	background-color: #F6E2FF;
+	width: 60%;
+	height: 60%;
+    margin-left: 20%;
+	margin-right: 15%;
+	margin-top: 2%;
+	margin-bottom: 6%;
+	border-radius: 20px;
+}
+
+div.fundo1{
+	font-size: 85%;
+	background-color: #F6E2FF;
+	border-radius: 15px;
+}
+
+div.cor1{
+	font-size: 85%;
+	background-color: #F6E2FF;
+	width: 60%;
+	height: 60%;
+	margin: 10%;
+	border-radius: 20px;
+}
+
+div.margem1{
+	padding: 5%;
+}
+
+h5.diminui{
+	font-size: 120%;
+}
+
+h3.diminui{
+	font-size: 120%;
+}
+
+div.margem{
+	padding: 5%;
+}
+
+nav{
+	font-size: 80%;
+	font-weight: BOLD;
+}
+
+button{
+	float: right;
+}
+
+fieldset{
+	background-color: #eedae5;
+	padding: 4%;
+	border-radius: 10px;
+}
+
+input{
+	margin-right: 1%;
+}
+
